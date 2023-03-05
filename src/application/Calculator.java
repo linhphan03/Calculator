@@ -31,7 +31,7 @@ public class Calculator extends Application {
 		primaryStage.setTitle("Calculator");
 		
 		BorderPane layout = new BorderPane();
-		layout.setStyle("-fx-background-color: pink");
+		layout.setStyle("-fx-background-color: #555556");
 		layout.paddingProperty().bind(Bindings.createObjectBinding(() -> (new Insets(0, 0, 0, 0))));
 		
 		//set layout for textfield result
