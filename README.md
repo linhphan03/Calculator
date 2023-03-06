@@ -15,6 +15,6 @@ This calculator version simulate Apple's calculator but a more simple one.
   + Number: from 0-9
 - CalNumber: The number shown on the screen for operations
   
-3. Future improvements:
+## Future improvements:
 - Apply stack for the parentheses to prioritize operations in the parentheses
 - Optimize code
